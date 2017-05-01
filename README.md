@@ -1,4 +1,3 @@
-# nodejs-lesson-1-simple-articles
 ## Simple-articles
 Simple-articles是一个采用了Express Web应用程序框架设计的Web App。
 ## 功能
